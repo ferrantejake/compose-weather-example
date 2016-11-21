@@ -1,0 +1,11 @@
+{
+  "name": "compose-weather",
+  "version": "1.0.0",
+  "description": "A simple weather app for compose-mongo testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Jake Ferrante",
+  "license": "ISC"
+}

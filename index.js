@@ -1,0 +1,1 @@
+var Compose = require("compose");
